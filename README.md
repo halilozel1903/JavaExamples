@@ -1,2 +1,2 @@
-# JavaExamples
-Java dilinin  OOP kısmına ait örnekleri içermektedir.
+# Java Examples
+It contains examples of the OOP part of the Java language.
