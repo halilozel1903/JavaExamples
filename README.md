@@ -1,4 +1,4 @@
-# Java ☕️ Examples 📱
+# Java ☕️  Examples 📱
 
 `Java` is a high-level, class-based, Object-Oriented Programming (OOP) Language that is designed to have as few implementation dependencies as possible.
 
