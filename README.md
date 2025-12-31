@@ -104,7 +104,7 @@ Feel free to contribute by adding new examples or improving existing ones. Pleas
 ```
 MIT License
 
-Copyright (c) 2024 Halil OZEL
+Copyright (c) 2025 Halil OZEL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
